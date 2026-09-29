@@ -1,0 +1,8 @@
+pyomo
+highspy
+pandas
+numpy
+matplotlib
+scipy
+pytest
+ruff
